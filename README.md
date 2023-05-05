@@ -1,5 +1,6 @@
 <a name="ancora"></a>
 # Mais sobre mim ... 
+-
 - [Tecnologia](#tecnologia)
 - [Instação do Ambiente](#instalacao)
 - [Acrescentar editar arquivos](#acrescentareditar)

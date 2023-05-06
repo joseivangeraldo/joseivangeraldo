@@ -9,9 +9,8 @@
 - [Raikage](#ancora5)
 - [Tsuchikage](#ancora)
 
-### <a id="Resumo"> 👨‍💻 Conhecimentos</a>
-
-As seguintes ferramentas foram usadas na construção do projeto:
+### 👨‍💻 Resumo perfil
+Recém formado em Engenharia da Computação pela Univesp.
 
 - [Apache](https://httpd.apache.org/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html/)

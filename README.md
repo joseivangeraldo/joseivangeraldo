@@ -9,7 +9,7 @@
 - [Raikage](#ancora5)
 - [Tsuchikage](#ancora)
 
-### <a id="tecnologia"> 🛠 Tecnologias</a>
+### <a id="conhecimentos"> 👨‍💻 Conhecimentos</a>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

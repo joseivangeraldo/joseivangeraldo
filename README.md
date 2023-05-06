@@ -22,7 +22,7 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 
 <details><summary>Linux</summary>
 
-[Terminal](#)
+[Terminal](#)</br>
 [ShellScript](#)
 
 </details>

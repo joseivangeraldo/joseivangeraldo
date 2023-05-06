@@ -16,9 +16,9 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 - Sidel do Brasil
 
 # ✈️Cursos no exterior:
-Curso: Automation course for Matrix Filler RMC- RMB
-Pais Itália  Trainner Roberto Rizzoli
-Carga 40 horas      Conclusão 09/2015
+Curso: Automation course for Matrix Filler RMC- RMB</br>
+Pais Itália: Trainner Roberto Rizzoli
+
 
 
 

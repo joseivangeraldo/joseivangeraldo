@@ -20,5 +20,16 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 - Java
 - Python
 
+<details><summary>Does not work</summary>
+[hi](https://hello.ca)
+</details>
+
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
+
 
 

@@ -9,7 +9,7 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 
 # ⚙️Experiência anteriores:
 
-- [Saint Gobain](https://www.saint-gobain.com.br/)
+- Saint Gobain
 - Tower Automotive 
 - Marfinite Industria Plástica LTDA
 

@@ -9,7 +9,7 @@
 - [Raikage](#ancora5)
 - [Tsuchikage](#ancora)
 
-###👨‍💻 Resumo perfil:
+👨‍💻 Resumo perfil:  </br>
 Recém formado em Engenharia da Computação pela Univesp.
 
 - [Apache](https://httpd.apache.org/)

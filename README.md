@@ -12,6 +12,9 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 - Saint Gobain
 - Tower Automotive 
 - Marfinite Industria Plástica LTDA
+- Conexão Sistema de Proteses
+- Sidel do Brasil
+
 
 # 💡Conhecimentos adquiridos:
 - Linux Shell

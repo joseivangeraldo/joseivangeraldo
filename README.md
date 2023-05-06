@@ -14,6 +14,8 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 - Marfinite Industria Plástica LTDA
 - Conexão Sistema de Proteses
 - Sidel do Brasil
+- Suzano Papel e Celulose
+- Mtp Tubos
 
 # ✈️Cursos no exterior:
 Curso: Automation course for Matrix Filler RMC- RMB</br>

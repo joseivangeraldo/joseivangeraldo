@@ -6,6 +6,7 @@ Após alguns anos dei forma ao qur realmente amo fazer e passei no vestibular US
 - [Criação Servidor LAMP-Docker](https://github.com/joseivangeraldo/ServerPHP_Mysql)
 - [Criação Docker Servidor Apache](https://github.com/joseivangeraldo/html_css)
 - [Reactive Native](https://github.com/joseivangeraldo/React_JS)
+- [Shell Script](https://github.com/joseivangeraldo/SheellScript)
 
 # ⚙️Experiência anteriores:
 
